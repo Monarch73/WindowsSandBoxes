@@ -1,7 +1,7 @@
 <Configuration>
 <MappedFolders>
    <MappedFolder>
-     <HostFolder>C:\Users\Niels\Desktop\Wsb\SandboxScripts</HostFolder>
+     <HostFolder>C:\Users\Niels.monarch\Desktop\Windowssandboxes\SandboxScripts</HostFolder>
      <ReadOnly>true</ReadOnly>
    </MappedFolder>
 </MappedFolders>

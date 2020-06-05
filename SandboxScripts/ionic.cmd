@@ -16,8 +16,6 @@ choco install git -y
 choco install gradle -y
 
 call refreshenv
-call code --install-extension angular-schule.angular-schule-extension-pack
-call code --install-extension msjsdiag.cordova-tools
 call npm install -g @ionic/cli
 call npm install -g @angular/cli
 call npm install -g cordova
@@ -28,4 +26,6 @@ call npm install -g yarn
 mkdir -p c:\users\WDAGUtilityAccount\.android\avd
 
 call sdkmanager --install build-tools;29.0.3
+call code --install-extension angular-schule.angular-schule-extension-pack
+call code --install-extension msjsdiag.cordova-tools
 
