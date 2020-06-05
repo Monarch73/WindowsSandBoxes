@@ -11,6 +11,7 @@ choco install nodejs -y
 choco install android-sdk -y
 choco install git -y
 choco install gradle -y
+choco install cmder -y
 
 call refreshenv
 call code --install-extension angular-schule.angular-schule-extension-pack
